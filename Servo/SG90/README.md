@@ -3,13 +3,21 @@
 參數皆可調
 
 parameter miniPluse 	= 500;			//500us 	0.5ms
+
 parameter maxPluse 	= 2400;			//2400us	2.4ms 
+
 parameter cycle		= 20000;       //20000us 20ms
+
 parameter clkValue 	= 100_000_000;	//100MHZ would choose Avalon salve interfac's system clk
+
 parameter usValue    = 1_000_000;
+
 parameter cycleCnt			= clkValue / usValue * cycle; 		//200w 	clk
+
 parameter miniPluseCnt 		= clkValue / usValue * miniPluse;	//5w	   clk
+
 parameter angelPluseUnit 	= clkValue / usValue * (maxPluse - miniPluse) / 180;// 1055 clk
+
 
 
 miniPluse為最小脈波寬度單位為us
