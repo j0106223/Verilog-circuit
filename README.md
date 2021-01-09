@@ -1,9 +1,2 @@
-# clk_Divider
-
-這是一個除頻器，預設外部時脈為50mhz，輸出頻率為1hz
-
-你可以透過設定clkFreq,hz參數來產生輸出頻率。
-
-先設定你的外部時脈頻率再決定你要輸出的頻率。
-
- 
+# Verilog circuit
+ Some usefull Circuit Using Verilog
