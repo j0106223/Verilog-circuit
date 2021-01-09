@@ -1,2 +1,2 @@
 # Verilog circuit
- Some usefull Circuit Using Verilog
+ some usefull Circuit Using Verilog
