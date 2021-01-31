@@ -1,0 +1,10 @@
+Info (10281): Verilog HDL Declaration information at I2C_WRITE.v(19): object "ADDR" differs only in case from object "addr" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_WRITE.v(20): object "REG_ADDR" differs only in case from object "reg_addr" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_WRITE.v(29): object "ACK_err" differs only in case from object "ack_err" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_WRITE.v(30): object "OK" differs only in case from object "ok" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_WRITE.v(28): object "BUSY" differs only in case from object "busy" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_READ.v(18): object "ADDR" differs only in case from object "addr" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_READ.v(19): object "REG_ADDR" differs only in case from object "reg_addr" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_READ.v(27): object "ACK_err" differs only in case from object "ack_err" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_READ.v(29): object "OK" differs only in case from object "ok" in the same scope
+Info (10281): Verilog HDL Declaration information at I2C_READ.v(26): object "BUSY" differs only in case from object "busy" in the same scope
